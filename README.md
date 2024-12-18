@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nick-bit233&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nick-bit233&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-bit233&layout=compact&theme=default" alt="Top Languages" />
@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Nick-bit233&theme=default" alt="GitHub Trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Nick-bit233&theme=flat" alt="GitHub Trophy" />
     </td>
   </tr>
 </table>
