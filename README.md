@@ -16,6 +16,7 @@
 
 ## GitHub Stats
 ![Nick-bit233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-bit233&show_icons=true&count_private=true&theme=default)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nick-bit233&theme=default)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-bit233&layout=compact&theme=default)
