@@ -14,12 +14,19 @@
 - **Frameworks/Libraries**: .Net, Django, Streamlit, Pytorch, LangChain
 - **Tools/Platforms**: Unity3D, Docker, Cursor(due this is great!) 
 
-## GitHub Stats
-![Nick-bit233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-bit233&show_icons=true&count_private=true&theme=default)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nick-bit233&theme=default)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-bit233&layout=compact&theme=default)
-
-## Blog Website
-- [Here](nick-bit233.github.io)
+## Stats
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nick-bit233&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-bit233&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Nick-bit233&theme=default" alt="GitHub Trophy" />
+    </td>
+  </tr>
+</table>
